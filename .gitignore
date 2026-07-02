@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Generated subtitle files
+*.srt
+*.vtt
+*.ass
+
+# Audio / video files
+*.wav
+*.mp3
+*.m4a
+*.flac
+*.ogg
+*.mp4
+*.mov
+*.mkv
+*.avi
+
+# Whisper / cache / temporary files
+.cache/
+*.tmp
+*.log
